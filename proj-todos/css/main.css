@@ -1,0 +1,22 @@
+body {
+    background-color: lightcyan;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.todo-filter {
+    background-color: lightpink;
+    padding: 10px;
+}
+
+.todo-stat {
+    background-color: rgb(140, 130, 234);
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.todo-stat span {
+    font-size: 20px;
+}
